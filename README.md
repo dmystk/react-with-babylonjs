@@ -14,3 +14,5 @@ To run the app, please type the follow command:
 ```shell
 $ npm start
 ```
+
+Please see [this article](https://qiita.com/dmystk/items/06fb0d0d21c690652f99) (Japanese) for more details.
